@@ -26,7 +26,7 @@ pyton3 ToDoBot.py
 Then, with `/start` you can start the chatbot.
 To create a todo list, just write and sent a message with the tasks you need;
 After inserting an item, the bot will return the complete list;
-[CreatingList](images/creating_list.png)
+![CreatingList](images/creating_list.png)
 
 Then, when you have a taks done, you can use `/done` to select which taks should be removed from the list.
-[done image](images/done.png)
+![done image](images/done.png)
